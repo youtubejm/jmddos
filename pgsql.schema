@@ -1,0 +1,36 @@
+###############
+by nawrs
+######################
+
+
+ Base of ages
+
+
+CREATE TABLE age (
+	groupchat text,
+	nick text,
+	jid text,
+	status integer
+);
+
+CREATE INDEX age_rj ON age (groupchat,jid);
+
+CREATE INDEX age_rnj ON age (groupchat,nick,jid);
+
+CREATE TABLE jid (
+	login text,
+	server text,
+	resourse text
+);
+
+CREATE INDEX jid_log ON jid (login);
+CREATE INDEX jid_srv ON jid (server);
+CREATE INDEX jid_res ON jid (resourse);
+
+-- Aliases
+
+CREATE TABLE alias (
+	room text,
+	match text,
+	cmd text
+);

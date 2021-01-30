@@ -1,0 +1,14 @@
+pin0','pin1','pin2','pin3','pin4','pin5
+pin6','pin7','pin8','pin9','pin10','pin11
+pin12','pin13','pin14','pin15','pin16','pin17
+pin0','pin1','pin2','pin3','pin4','pin8','pin9','pin10','pin11','pin12','pin13','pin14','pin15','pin16','pin17','pin18','pin19','pin20','pin21','pin22','pin23','pin24','pin25','pin26','pin27','pin28','pin29','pin30','pin31','pin32
+
+pin0','pin1','pin2','pin3','pin4','pin8','pin9','pin10','pin11','pin12','pin13','pin14','pin15','pin16','pin17','pin18','pin19','pin20','pin21','pin22','pin23','pin24','pin25','pin26','pin27','pin28','pin29','pin30','pin31','pin32','pin33','pin34','pin35','pin36','pin37','pin38
+--------------
+pin0','pin1','pin2','pin3','pin4','pin8','pin9','pin10','pin11','pin12','pin13','pin14','pin15','pin16','pin17','pin18','pin19','pin20','pin21','pin22','pin23','pin24','pin25','pin26','pin27','pin28','pin29','pin30','pin31','pin32','pin33','pin34','pin35','pin36','pin37','pin38','pin39','pin40','pin41','pin42','pin43','pin44','pin45
+{'zon0@syriatalk.org:550550': {}, 'zon1@syriatalk.org:550550': {}, 'zon2@syriatalk.org:550550': {}, 'zon3@syriatalk.org:550550': {}, 'zon4@syriatalk.org:550550': {}, 'zon5syriatalk.org:550550': {}, 'zon6@syriatalk.org:550550': {}, 'zon7@syriatalk.org:550550': {}, 'zon8@syriatalk.org:550550': {}, 'zon9@syriatalk.org:550550': {},
+'zon10@syriatalk.org:550550': {}, 'zon11@syriatalk.org:550550': {}, 'zon12@syriatalk.org:550550': {}, 'zon13@syriatalk.org:550550': {}, 'zon14@syriatalk.org:550550': {}, 'zon15@syriatalk.org:550550': {}, 'zon16@syriatalk.org:550550': {}, 'zon17@syriatalk.org:550550': {}, 'zon18@syriatalk.org:550550': {}, 'zon19@syriatalk.org:550550': {},
+'zon20@syriatalk.org:550550': {}, 'zon21@syriatalk.org:550550': {}, 'zon22@syriatalk.org:550550': {}, 'zon23@syriatalk.org:550550': {}, 'zon24@syriatalk.org:550550': {}, 'zon25@syriatalk.org:550550': {}, 'zon26@syriatalk.org:550550': {}, 'zon27@syriatalk.org:550550': {}, 'zon28@syriatalk.org:550550': {},
+'zon29@syriatalk.org:550550': {}, 'zon30@syriatalk.org:550550': {}, 'zon31@syriatalk.org:550550': {}, 'zon32@syriatalk.org:550550': {}, 'zon33@syriatalk.org:550550': {}, 'zon34@syriatalk.org:550550': {}, 'zon35@syriatalk.org:550550': {}, 'zon36@syriatalk.org:550550': {}, 'zon37@syriatalk.org:550550': {},
+'zon38@syriatalk.org:550550': {}, 'zon39@syriatalk.org:550550': {}, 'zon40@syriatalk.org:550550': {}, 'zon41@syriatalk.org:550550': {}, 'zon42@syriatalk.org:550550': {}, 'zon43@syriatalk.org:550550': {}, 'zon44@syriatalk.org:550550': {}, 'zon45@syriatalk.org:550550': {}, 'zon46@syriatalk.org:550550': {}, 'zon47@syriatalk.org:550550': {},
+'zon48@syriatalk.org:550550': {}}
